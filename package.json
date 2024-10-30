@@ -1,0 +1,7 @@
+{
+    "urls": [
+      ["umqtt/robust2.py", "github:esp-micro/micropython-umqtt.robust2/src/umqtt/robust2.py"]      
+      
+    ],
+    "version": "0.1"
+  }
